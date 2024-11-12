@@ -343,6 +343,17 @@
       "isDeleted": false,
       "createdAt": "2024-11-11T23:55:08.813Z",
       "modifiedAt": "2024-11-11T23:55:08.813Z"
+    },
+    {
+      "id": "7oUpLFYFp",
+      "uuid": "dda2dcb3-7b07-41fd-893a-51998a60bbf2",
+      "userId": "ksk-YuOzU",
+      "bankName": "cleito",
+      "accountNumber": "987654321",
+      "routingNumber": "123456789",
+      "isDeleted": false,
+      "createdAt": "2024-11-12T00:26:41.314Z",
+      "modifiedAt": "2024-11-12T00:26:41.314Z"
     }
   ],
   "transactions": [
