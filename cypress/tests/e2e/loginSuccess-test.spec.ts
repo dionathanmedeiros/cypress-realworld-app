@@ -7,3 +7,4 @@ describe('template spec', () => {
       cy.get('[data-test="signin-submit"]').click()
     })
   })
+
